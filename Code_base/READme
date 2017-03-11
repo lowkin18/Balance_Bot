@@ -1,0 +1,3 @@
+This is the code_base for the tm4c123gh6pm microController - We are utilizing TI-RTOS as our main scheduler.
+
+The code was written for education use as a learning tool to better understand control theory and feedback.
